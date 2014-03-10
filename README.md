@@ -5,7 +5,7 @@ Conway's Game of Life
 
 A Javascript implementation of Conway's Game of Life.
 
-The four rules from [here](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)Wikipedia.
+The four rules from [Wikipedia](http://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 <ol>
 <li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>
 <li>Any live cell with two or three live neighbours lives on to the next generation.</li>
